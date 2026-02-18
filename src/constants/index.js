@@ -71,7 +71,7 @@ export const socialImgs = [
     {
         name: "linkedIn",
         imgPath: "/images/linkedin.svg",
-        url: "https://www.linkedin.com/in/beerkamal-singh-bhagal/",
+        url: "https://www.linkedin.com/in/beerkamal-bhagal/",
     },
     {
         name: "YouTube",
